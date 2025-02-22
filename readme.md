@@ -19,9 +19,10 @@ batch_size=128
 learnRate=0.001
 reg.lambda=0.0001
 max_len=50
-BERT4Rec=-n_blocks 2 -drop_rate 0.2 -n_heads 1 -mask_rate 0.5 -eps 0.1 -lambda 0.001 -cl 0 -cltype text -uni 0
+BERT4Rec=-n_blocks 2 -drop_rate 0.2 -n_heads 1 -mask_rate 0.5 -eps 0.1 -lambda 0.001 -cl 0 -cltype text -strategy 1    #strategy1:Direct Learning Strategy    strategy2: User Information Strategy strategy3: External
+Knowledge Strategy
 output.setup=-dir ./results/
-feature=id
+feature=id     #default feature=id
 ```
 
 **Step2：** run the code:
