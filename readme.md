@@ -1,6 +1,6 @@
 # MMKEI
 
-MMKEI is a plug-and-play framework leveraing LLM knowledge to do sequential recommendation.This project refers to the framework of SELFRec(https://github.com/Coder-Yu/SELFRec).
+MMKEI is a plug-and-play framework leveraing LLM knowledge to do sequential recommendation.
 
 The steps to run the code are as follows:
 
