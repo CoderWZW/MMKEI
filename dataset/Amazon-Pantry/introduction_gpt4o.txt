@@ -1,0 +1,50 @@
+Product ID
+Product Name
+Brand Name
+Category
+Subcategory
+Product Description
+Package Size
+Unit of Measure
+Price
+Discount
+Discount Percentage
+List Price
+Sales Price
+Availability Status
+Stock Quantity
+Reorder Level
+SKU (Stock Keeping Unit)
+UPC (Universal Product Code)
+ASIN (Amazon Standard Identification Number)
+Shipping Cost
+Delivery Time Estimate
+Delivery Options
+Subscription Option
+Subscription Discount
+Amazon Prime Eligibility
+Pantry Box Size
+Weight
+Dimensions
+Nutrition Information
+Ingredients
+Allergen Information
+Customer ID
+Customer Location
+Customer Purchase Frequency
+Customer Lifetime Value
+Customer Reviews
+Review Rating
+Review Count
+Order ID
+Order Date
+Purchase History
+Order Quantity
+Total Order Value
+Promotion Code
+Promotion Type
+Seasonal Demand
+Supplier ID
+Supplier Name
+Warehouse Location
+Return Policy

@@ -1,0 +1,200 @@
+Canned Beans
+Boxed Cereal
+Pasta Noodles
+Tomato Sauce
+Peanut Butter
+Jelly
+Canned Tuna
+Instant Rice
+Olive Oil
+Vegetable Oil
+Flour
+Sugar
+Salt
+Black Pepper
+Baking Soda
+Baking Powder
+Pancake Mix
+Maple Syrup
+Honey
+Tea Bags
+Ground Coffee
+Coffee Creamer
+Hot Chocolate Mix
+Bottled Water
+Sparkling Water
+Soda
+Juice Boxes
+Sports Drinks
+Energy Drinks
+Shelf-Stable Milk
+Almond Milk
+Soy Milk
+Coconut Milk
+Canned Soup
+Ramen Noodles
+Macaroni and Cheese
+Instant Mashed Potatoes
+Canned Vegetables
+Canned Fruit
+Applesauce
+Dried Fruit
+Trail Mix
+Granola Bars
+Protein Bars
+Popcorn
+Potato Chips
+Tortilla Chips
+Salsa
+Pretzels
+Crackers
+Cookies
+Candy Bars
+Chocolate Chips
+Marshmallows
+Graham Crackers
+Oatmeal
+Instant Grits
+Rice Cakes
+Pudding Cups
+Gelatin Mix
+Canned Chili
+Canned Stew
+Canned Pasta
+Canned Meat
+Beef Jerky
+Canned Fish
+Canned Chicken
+Canned Ham
+Canned Sausages
+Canned Corned Beef
+Canned Spam
+Canned Sardines
+Canned Salmon
+Canned Mackerel
+Canned Clams
+Canned Oysters
+Canned Crab
+Canned Shrimp
+Canned Mussels
+Canned Anchovies
+Canned Artichokes
+Canned Hearts of Palm
+Canned Bamboo Shoots
+Canned Water Chestnuts
+Canned Mushrooms
+Canned Olives
+Canned Capers
+Canned Pickles
+Canned Sauerkraut
+Canned Kimchi
+Canned Jalapenos
+Canned Green Chiles
+Canned Pimentos
+Canned Roasted Red Peppers
+Canned Sun-Dried Tomatoes
+Canned Tomato Paste
+Canned Tomato Puree
+Canned Diced Tomatoes
+Canned Crushed Tomatoes
+Canned Whole Tomatoes
+Canned Tomato Sauce
+Canned Pizza Sauce
+Canned Alfredo Sauce
+Canned Pesto Sauce
+Canned Cheese Sauce
+Canned Gravy
+Canned Broth
+Canned Stock
+Canned Coconut Milk
+Canned Evaporated Milk
+Canned Condensed Milk
+Canned Sweetened Condensed Milk
+Canned Buttermilk
+Canned Cream
+Canned Sour Cream
+Canned Yogurt
+Canned Pudding
+Canned Custard
+Canned Pie Filling
+Canned Fruit Cocktail
+Canned Pineapple
+Canned Peaches
+Canned Pears
+Canned Apricots
+Canned Cherries
+Canned Apples
+Canned Mangoes
+Canned Papaya
+Canned Lychee
+Canned Longan
+Canned Rambutan
+Canned Jackfruit
+Canned Durian
+Canned Mangosteen
+Canned Breadfruit
+Canned Soursop
+Canned Guava
+Canned Passion Fruit
+Canned Starfruit
+Canned Dragon Fruit
+Canned Kiwi
+Canned Banana
+Canned Plantain
+Canned Coconut
+Canned Dates
+Canned Figs
+Canned Prunes
+Canned Raisins
+Canned Cranberries
+Canned Blueberries
+Canned Blackberries
+Canned Raspberries
+Canned Strawberries
+Canned Gooseberries
+Canned Currants
+Canned Elderberries
+Canned Mulberries
+Canned Huckleberries
+Canned Boysenberries
+Canned Loganberries
+Canned Marionberries
+Canned Tayberries
+Canned Olallieberries
+Canned Youngberries
+Canned Dewberries
+Canned Cloudberries
+Canned Lingonberries
+Canned Sea Buckthorn
+Canned Acai Berries
+Canned Goji Berries
+Canned Maqui Berries
+Canned Aronia Berries
+Canned Schisandra Berries
+Canned Camu Camu
+Canned Acerola Cherries
+Canned Jabuticaba
+Canned Miracle Fruit
+Canned Noni Fruit
+Canned Baobab Fruit
+Canned Monstera Deliciosa
+Canned Buddha's Hand
+Canned Finger Lime
+Canned Kaffir Lime
+Canned Calamansi
+Canned Kumquat
+Canned Ugli Fruit
+Canned Pomelo
+Canned Yuzu
+Canned Sudachi
+Canned Kabosu
+Canned Shikuwasa
+Canned Citron
+Canned Bergamot
+Canned Seville Orange
+Canned Blood Orange
+Canned Cara Cara Orange
+Canned Tangelo
+Canned Clementine
+Canned Satsuma
+Canned Mandarin Orange
